@@ -2,6 +2,11 @@
 
 Takes [cookie-manager](https://github.com/juji/cookie-manager) (extends prototype) and [cookie](https://github.com/jshttp/cookie) (adds parse and serialize methods as class and prototype methods), and adds a toJSON method. It is the boss!
 
+## Installation
+```
+npm install cookie-boss
+```
+
 ## Usage
 ```javascript
 const CookieBoss = require('cookie-boss');
