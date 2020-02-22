@@ -10,3 +10,7 @@
 ### Added
 - "fromJSON" prototype method.
 - "getCookies" prototype method.
+
+## [1.1.0] - 2019-02-22
+### Added
+- Typescript method definitions.
