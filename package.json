@@ -1,6 +1,6 @@
 {
   "name": "cookie-boss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "types": "index.d.ts",
@@ -28,6 +28,7 @@
   "dependencies": {
     "cookie": "^0.4.0",
     "cookie-manager": "0.0.19",
-    "simple-cookie": "^1.0.9"
+    "simple-cookie": "^1.0.9",
+    "url": "^0.11.0"
   }
 }
